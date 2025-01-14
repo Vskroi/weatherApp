@@ -6,11 +6,7 @@ export default {
   ],
   theme: {
     extend: {
-      backgroundColor:{
-        orange: {
-          2:"#FF8E27"
-        }
-      }
+
     },
   },
   plugins: [],
